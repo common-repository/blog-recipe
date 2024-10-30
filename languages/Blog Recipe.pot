@@ -1,0 +1,191 @@
+# Copyright (C) 2018 Blog Recipe
+# This file is distributed under the same license as the Blog Recipe package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog Recipe 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Blog Recipe\n"
+"POT-Creation-Date: 2018-09-01 10:02:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: blog_recipe.php:33
+msgid "One title"
+msgstr ""
+
+#: blog_recipe.php:33
+msgid ""
+"Use a working title and finalise the title once you have completed your "
+"entire blog post."
+msgstr ""
+
+#: blog_recipe.php:34
+msgid "One introduction"
+msgstr ""
+
+#: blog_recipe.php:34
+msgid ""
+"Write one or two lines to describe the main (pain) point of your blog post."
+msgstr ""
+
+#: blog_recipe.php:35
+msgid "One problem"
+msgstr ""
+
+#: blog_recipe.php:35
+msgid ""
+"Describe the main problem (pain, fear, challenge, frustration) of this "
+"post's topic and explain why it is a problem for your readers, now."
+msgstr ""
+
+#: blog_recipe.php:36
+msgid "One explanation"
+msgstr ""
+
+#: blog_recipe.php:36
+msgid "Describe the consequences for your readers when this problem persists."
+msgstr ""
+
+#: blog_recipe.php:37
+msgid "One solution"
+msgstr ""
+
+#: blog_recipe.php:37
+msgid ""
+"Offer a simple, doable solution to start eliminating that problem, from your "
+"expertise. Describe it in simple language, a number of steps, tips or "
+"explanation."
+msgstr ""
+
+#: blog_recipe.php:38
+msgid "One conclusion"
+msgstr ""
+
+#: blog_recipe.php:38
+msgid ""
+"Write one or two lines to briefly summarise what the final conclusion is of "
+"what your readers will get out of the solution to their problem."
+msgstr ""
+
+#: blog_recipe.php:39
+msgid "One call to action"
+msgstr ""
+
+#: blog_recipe.php:39
+msgid ""
+"Tell them clearly what exactly you want them to do: leave a comment, share "
+"their main insight, list their biggest problem, or ask their most important "
+"question."
+msgstr ""
+
+#. #-#-#-#-#  Blog Recipe.pot (Blog Recipe 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: blog_recipe.php:55
+msgid "Blog Recipe"
+msgstr ""
+
+#: blog_recipe.php:78
+msgid "To do:"
+msgstr ""
+
+#: blog_recipe.php:83
+msgid "Recipe complete!"
+msgstr ""
+
+#. translators: 1: Number done 2: Total count
+#: blog_recipe.php:86
+msgid "%1$s from %2$s ingredients"
+msgstr ""
+
+#: blog_recipe.php:101
+msgid "Your Blog Recipe"
+msgstr ""
+
+#: blog_recipe.php:110
+msgid "INGREDIENTS"
+msgstr ""
+
+#: blog_recipe.php:111
+msgid "Recipe for 1 blog post of 500 - 700 words"
+msgstr ""
+
+#: blog_recipe.php:134
+msgid "PREPARATION"
+msgstr ""
+
+#: blog_recipe.php:135
+msgid "(The basis)"
+msgstr ""
+
+#: blog_recipe.php:137
+msgid "Describe the problem."
+msgstr ""
+
+#: blog_recipe.php:138
+msgid "Describe the explanation."
+msgstr ""
+
+#: blog_recipe.php:139
+msgid "Describe the solution."
+msgstr ""
+
+#: blog_recipe.php:140
+msgid "Write the conclusion."
+msgstr ""
+
+#: blog_recipe.php:141
+msgid "Write the call to action."
+msgstr ""
+
+#: blog_recipe.php:142
+msgid "Put the mixture in a saved digital environment as a draft post."
+msgstr ""
+
+#: blog_recipe.php:144
+msgid "(Directions)"
+msgstr ""
+
+#: blog_recipe.php:146
+msgid "Retrieve the mixture by opening your saved draft post."
+msgstr ""
+
+#: blog_recipe.php:147
+msgid ""
+"If necessary, polish up the transition between the problem, the\n"
+"\t\texplanation and the conclusion."
+msgstr ""
+
+#: blog_recipe.php:149
+msgid "Write the introduction."
+msgstr ""
+
+#: blog_recipe.php:150
+msgid "Create a title."
+msgstr ""
+
+#: blog_recipe.php:151
+msgid "Check the completed blog post for spelling."
+msgstr ""
+
+#: blog_recipe.php:152
+msgid "Save the blog post."
+msgstr ""
+
+#: blog_recipe.php:155
+msgid "Your blog post is now ready for publication."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Add the Blog Recipe to the post editor"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Saskia van de Riet"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://blogatelier.nl/over-saskia/"
+msgstr ""
